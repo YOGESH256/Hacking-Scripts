@@ -35,11 +35,11 @@ node index.js
 
 ## Homepage (top anime)
 
-  <img src="Images/Homepage.png" width="350" title="home">
+  <img src="Images/Homepage.PN" width="350" title="home">
 
 ### Genre
 
- <img src="Images/Genre.png" width="350" title="compose">
+ <img src="Images/Genre.PNG" width="350" title="compose">
 
 ### Search any anime
 
