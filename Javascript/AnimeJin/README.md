@@ -35,7 +35,7 @@ node index.js
 
 ## Homepage (top anime)
 
-  <img src="Images/Homepage.PN" width="350" title="home">
+  <img src="Images/Homepage.PNG" width="350" title="home">
 
 ### Genre
 
